@@ -1,0 +1,18 @@
+/* Escribe aqui tu CSS */
+.box {
+	width: 240px;
+	height: 200px;
+	border: 10px solid #F4DE23;
+	padding: 10px;
+	margin: 20px;
+}
+.caja {
+	width: 240px;
+	height: 200px;
+	border: 10px solid #F4DE23;
+	margin: 50px 320px;
+	padding: 5px;
+}
+div {
+	border: 3px solid #171414;
+}
