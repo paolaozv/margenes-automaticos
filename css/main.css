@@ -1,20 +1,11 @@
 /* Escribe aqui tu CSS */
 .box {
-	width: 240px;
-	height: 200px;
-	border: 10px solid #F4DE23;
-	padding: 30px;
-	margin: 20px;
+	width: 200px;
+	padding: 20px;
+	border: 20px solid #F4DE23;
 	text-align: center;
 }
-.caja {
-	width: 240px;
-	height: 200px;
-	border: 10px solid #F4DE23;
-	margin: 20px 500px;
-	padding: 30px;
-	text-align: center;
-}
-div {
-	border: 3px solid #171414;
+
+#position {
+	margin: 0px auto;
 }
